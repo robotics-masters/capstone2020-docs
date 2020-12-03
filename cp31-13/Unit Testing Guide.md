@@ -1,0 +1,3 @@
+For unit testing the function associated with making the Donkey Car stop, turn etc..., Python's unit test library
+was used. The relevant file can be found [here](https://bitbucket.org/Osamaaa/comp3888_t13a_group5/src/Simulator-testing/donkey%20gym/mycar/rmracerlib/donkey/test_sign_reaction.py).
+The aim of these unit tests was to ensure that the correct throttle and angles were being returned when the car detected a certain sign

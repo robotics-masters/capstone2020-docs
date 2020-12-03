@@ -1,0 +1,3 @@
+Technically, other members were present in the call, and did observe and contribute, this was technically, a pari programming between Oscar and Keenan which resolved the last 2 session's issues with simulation code on MacOS, due to a series of if-else statements that checked for OS which had an incorrect function for the MacOS. 
+
+![Screen Shot 2020-11-10 at 1.39.09 pm.png](https://bitbucket.org/repo/oo8byMk/images/1589582816-Screen%20Shot%202020-11-10%20at%201.39.09%20pm.png)

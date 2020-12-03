@@ -1,0 +1,1 @@
+![System Architecture Design (High level)](https://bitbucket.org/repo/oo8byMk/images/4173721969-Group%201.png)

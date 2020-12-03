@@ -1,0 +1,2 @@
+Discussion with Tamara about Blender and Modelling 
+![Screen Shot 2020-10-04 at 7.25.04 pm.png](https://bitbucket.org/repo/oo8byMk/images/1436806843-Screen%20Shot%202020-10-04%20at%207.25.04%20pm.png)![Screen Shot 2020-10-04 at 7.25.04 pm.png]
