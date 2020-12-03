@@ -1,0 +1,33 @@
+# Week 4 status report
+
+| **Unit of Study**        | COMP3988                                                                      |
+| ------------------------ | ----------------------------------------------------------------------------- |
+| **Team name**            | [COMP3988_T17B_Group1](https://bitbucket.org/RobertJia/comp3988_t17b_group1/) |
+| **Project Name**         | CP32 - Project Title: Implement Sign Detection using TensorFlow               |
+| **Project start date**   | Monday week 3, 11/09/2020                                                     |
+| **Project end date**     | Friday week 12, 20/11/2020                                                    |
+| **Project point person** | Hao Lan                                                                       |
+| **Report Date**          | 22/09/2020                                                                    |
+
+ 
+
+| **Quick description** | Implement Sign Detection using TensorFlow |
+
+ 
+
+| **Status item**          | **Status up to last week**                                                                                                                                                                       | **Planned for next week**                                                                                                                                                                          |
+| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Scope**                | Implement Sign Detection using TensorFlow                                                                                                                                                        |                                                                                                                                                                                                    |
+| **Time**                 | a little falling behind because of transferring project.                                                                                                                                         |                                                                                                                                                                                                    |
+| **Quality**              | - Code quality so far is fair. Since we are adapting code from other sources as instructed by the client<br>- Team work and meeting is of higher quality than before as we are getting on track. |                                                                                                                                                                                                    |
+| **Planned Activities**   | - Project scope confirmed.<br>- Simulator and tensorflow set up on person devices<br>- Running a trained donkey car in the simulator<br>- Stop and left, right turn sign classification          | - Further improve existing classification code<br>- Gathering data in donkey car simulator to train the model<br>- Build models for other signs<br>- Build a virtual racing league web leaderboard |
+| **Achievements**         |                                                                                                                                                                                                  |                                                                                                                                                                                                    |
+| **Major deliverables**   | - N/A                                                                                                                                                                                            | - N/A                                                                                                                                                                                              |
+| **Major issues**         | Falling behind due to transferring into the project.                                                                                                                                             | Need to catch up soon with the presentation due before the mid-term vacation.                                                                                                                      |
+| **Major risks**          | Group members have other commitments, time pressure is high.                                                                                                                                     | Our user stories definition might be unclear as tasks to do                                                                                                                                        |
+| **Estimated effort (h)** | Tutorial: 2h<br>2 team meetings: 2h<br>1 client meeting: 1h<br>our own study: 2*6=12h<br>total: 17h/member                                                                                       | Tutorial: 2h<br>2 team meetings: 2h<br>1 client meeting: 1h<br>our own study: 2*6=12h<br>total: 17h/member                                                                                         |
+| **Recorded effort (h)**  | Tutorial: 2h<br>2 team meetings: 2.5h<br>1 client meeting: 1.5h<br>our own study: 2*6=12h<br>total: 18h/member                                                                                   |                                                                                                                                                                                                    |
+| **Overall Status (RYG)** | Y                                                                                                                                                                                                |                                                                                                                                                                                                    |
+
+ 
+*project status report should be brief but informative – may use dot points where appropriate

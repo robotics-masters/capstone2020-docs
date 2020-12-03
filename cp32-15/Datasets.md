@@ -1,0 +1,7 @@
+# Datasets #
+
+* [German Traffic Sign Detection Benchmark](http://benchmark.ini.rub.de/?section=gtsdb&subsection=dataset) seems to be very promising! 900 images, separated into 600 training and 300 validation, with annotatated bounding boxes in `gt.txt` file. I've had a look at the files and they are great. Has 43 sign classes including stop, go left, go right, speed limit. It does not have traffic lights (although does have traffic signal sign) because it is purely signs.
+* [BelgiumTS](https://btsd.ethz.ch/shareddata/) - haven't been able to access this yet (server is down at time of writing) but has 62 classes of traffic signs annotated.
+* [LISA Dataset](http://cvrr.ucsd.edu/LISA/lisa-traffic-sign-dataset.html) has annotated video streams but couldn't immediately understand how to access the data.
+* [Open Images Dataset V6](https://storage.googleapis.com/openimages/web/visualizer/index.html?set=train&type=detection&c=%2Fm%2F01mqdt) doesn't seem too useful because it seems to only have `traffic sign`, `stop sign` and `traffic light` as classes.
+* [COCO dataset](https://cocodataset.org/#home) is a large-scale (330k images) object detection, segmentation, and captioning dataset, containing over 90 classifications including stop signs and traffic lights.

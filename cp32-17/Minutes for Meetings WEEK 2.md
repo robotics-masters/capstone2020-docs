@@ -1,0 +1,2 @@
+This page will have the Word documents for meeting minutes.
+I am attaching herewith link for the word documents for Meeting Minutes of WEEK 2-- https://bitbucket.org/aradhikaguha/comp5615-group-2/downloads/Meeting_Minutes_2020-09-03.docx

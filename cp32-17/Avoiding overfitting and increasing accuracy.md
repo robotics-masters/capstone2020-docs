@@ -1,0 +1,2 @@
+* I have done by adding additional convolution layers, pooling layers to the baseline neural network
+* I have also added dropout layers such that noise is unlearned and overfitting is reduced to improve accuracy
