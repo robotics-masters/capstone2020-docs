@@ -1,0 +1,23 @@
+---
+title: Final Report -- Object Detection for simulated Drones
+subtitle: "CP33 T17B Group 5\\newline Client: Cian Cyrne\\newline Tutor: Frank Fu"
+output: pdf_document
+author:
+  - Gio Picones
+  - Zhiyi Song
+  - Martin Chai
+  - Yexin Mao
+  - Boswell Lin
+  - Steven Condell
+date: 2020 August - December
+numbersections: true
+toc: true
+urlcolor: cyan
+
+# options from eisvogel template
+titlepage: true
+toc-own-page: true
+
+# my customize option
+coverpage: ./coverpage.pdf
+---

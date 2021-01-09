@@ -1,0 +1,6 @@
+#!/bin/sh
+
+PANDOC=$(command -v pandoc)
+PDFLATEX=$(command -v pdflatex)
+
+${PANDOC} -F pandoc-crossref --template ./eisvogel.latex report.md metadata.yaml -o output.pdf

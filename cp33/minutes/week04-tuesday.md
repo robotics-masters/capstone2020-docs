@@ -1,0 +1,7 @@
+- Tuesday Meeting Minutes 
+- 15/9/2020
+- Week 4
+- Deliverables by next meeting
+    - model world (cityscape, populated with signs)
+    - set up mavsdk
+    - start to look into how to integrate opencv
